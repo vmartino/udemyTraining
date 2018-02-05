@@ -1,3 +1,5 @@
+// First code ever
+
 package main
 
 import "fmt"
